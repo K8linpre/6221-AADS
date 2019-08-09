@@ -1,0 +1,7 @@
+C:\Users\30002731\source\repos\Array Prac\Array Prac\bin\Debug\Array Prac.exe.config
+C:\Users\30002731\source\repos\Array Prac\Array Prac\bin\Debug\Array Prac.exe
+C:\Users\30002731\source\repos\Array Prac\Array Prac\bin\Debug\Array Prac.pdb
+C:\Users\30002731\source\repos\Array Prac\Array Prac\obj\Debug\Array Prac.csprojAssemblyReference.cache
+C:\Users\30002731\source\repos\Array Prac\Array Prac\obj\Debug\Array Prac.csproj.CoreCompileInputs.cache
+C:\Users\30002731\source\repos\Array Prac\Array Prac\obj\Debug\Array Prac.exe
+C:\Users\30002731\source\repos\Array Prac\Array Prac\obj\Debug\Array Prac.pdb

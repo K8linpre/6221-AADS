@@ -1,0 +1,7 @@
+C:\Users\30002731\source\repos\Extension API\Teacher's Answer\obj\Debug\Teacher's Answer.csprojAssemblyReference.cache
+C:\Users\30002731\source\repos\Extension API\Teacher's Answer\obj\Debug\Teacher's Answer.csproj.CoreCompileInputs.cache
+C:\Users\30002731\source\repos\Extension API\Teacher's Answer\bin\Debug\Teacher's Answer.exe.config
+C:\Users\30002731\source\repos\Extension API\Teacher's Answer\bin\Debug\Teacher's Answer.exe
+C:\Users\30002731\source\repos\Extension API\Teacher's Answer\bin\Debug\Teacher's Answer.pdb
+C:\Users\30002731\source\repos\Extension API\Teacher's Answer\obj\Debug\Teacher's Answer.exe
+C:\Users\30002731\source\repos\Extension API\Teacher's Answer\obj\Debug\Teacher's Answer.pdb

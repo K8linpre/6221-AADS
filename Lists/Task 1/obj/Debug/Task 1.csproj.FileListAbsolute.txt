@@ -1,0 +1,6 @@
+C:\Users\30002731\source\repos\Lists\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\30002731\source\repos\Lists\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\30002731\source\repos\Lists\Task 1\bin\Debug\Task 1.exe
+C:\Users\30002731\source\repos\Lists\Task 1\bin\Debug\Task 1.pdb
+C:\Users\30002731\source\repos\Lists\Task 1\obj\Debug\Task 1.exe
+C:\Users\30002731\source\repos\Lists\Task 1\obj\Debug\Task 1.pdb

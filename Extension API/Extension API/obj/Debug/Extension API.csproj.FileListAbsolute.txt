@@ -1,0 +1,7 @@
+C:\Users\30002731\source\repos\Extension API\Extension API\bin\Debug\Extension API.exe.config
+C:\Users\30002731\source\repos\Extension API\Extension API\bin\Debug\Extension API.exe
+C:\Users\30002731\source\repos\Extension API\Extension API\bin\Debug\Extension API.pdb
+C:\Users\30002731\source\repos\Extension API\Extension API\obj\Debug\Extension API.csprojAssemblyReference.cache
+C:\Users\30002731\source\repos\Extension API\Extension API\obj\Debug\Extension API.csproj.CoreCompileInputs.cache
+C:\Users\30002731\source\repos\Extension API\Extension API\obj\Debug\Extension API.exe
+C:\Users\30002731\source\repos\Extension API\Extension API\obj\Debug\Extension API.pdb
