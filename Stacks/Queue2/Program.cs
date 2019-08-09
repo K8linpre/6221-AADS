@@ -13,13 +13,6 @@ namespace Queues
         {
             Queue q1 = new Queue();
 
-            //Console.WriteLine("Please enter five names:");
-            //for (int i = 1; i <= 5; i++)
-            //{
-            //    Console.WriteLine($"Name No.{i}:");
-            //    q1.Enqueue(Console.ReadLine());
-            //}
-
             while (true)
             {
                 Console.WriteLine("Please enter a name:");
@@ -33,11 +26,47 @@ namespace Queues
             }
 
             int counter = q1.Count;
+            Queue q2 = new Queue(q1);
 
-            for (int i = 0; i < counter; i++)
+            //for (int i = 0; i < counter; i++)
+            //{
+            //    Console.WriteLine(q1.Dequeue());
+            //}
+
+
+            Console.Write("What name would you like to check?");
+            string name = Console.ReadLine();
+            if (q2.Contains(name))
             {
-                Console.WriteLine("FIFO: " + q1.Dequeue() + "\nCount: " + q1.Count);
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"{name} was found in the queue...");
+                Console.ForegroundColor = ConsoleColor.White;
             }
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine($"{name} was not found in the queue...");
+                Console.ForegroundColor = ConsoleColor.White;
+            }
+
+            List<string> ordered = new List<string>();
+            foreach(object x in q1)
+            {
+                ordered.Add(x.ToString());
+            }
+
+            ordered.Sort();
+            q2.Clear();
+            foreach(string x in ordered)
+            {
+                q2.Enqueue(x);
+            }
+
+            for (int i = 0; i < q1.Count; i++)
+            {
+                Console.Write($"{q2.Dequeue()} ");
+            }
+
 
         }
     }
