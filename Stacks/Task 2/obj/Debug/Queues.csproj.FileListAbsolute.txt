@@ -1,0 +1,7 @@
+C:\Users\30002731\source\repos\Stacks\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\30002731\source\repos\Stacks\Task 2\bin\Debug\Task 2.exe
+C:\Users\30002731\source\repos\Stacks\Task 2\bin\Debug\Task 2.pdb
+C:\Users\30002731\source\repos\Stacks\Task 2\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+C:\Users\30002731\source\repos\Stacks\Task 2\obj\Debug\Task 2.exe
+C:\Users\30002731\source\repos\Stacks\Task 2\obj\Debug\Task 2.pdb
+C:\Users\30002731\source\repos\Stacks\Task 2\obj\Debug\Queues.csprojAssemblyReference.cache

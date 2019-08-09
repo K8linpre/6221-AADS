@@ -1,0 +1,7 @@
+C:\Users\30002731\source\repos\Stacks\Stack2\bin\Debug\Stack2.exe.config
+C:\Users\30002731\source\repos\Stacks\Stack2\bin\Debug\Stack2.exe
+C:\Users\30002731\source\repos\Stacks\Stack2\bin\Debug\Stack2.pdb
+C:\Users\30002731\source\repos\Stacks\Stack2\obj\Debug\Stack2.csprojAssemblyReference.cache
+C:\Users\30002731\source\repos\Stacks\Stack2\obj\Debug\Stack2.csproj.CoreCompileInputs.cache
+C:\Users\30002731\source\repos\Stacks\Stack2\obj\Debug\Stack2.exe
+C:\Users\30002731\source\repos\Stacks\Stack2\obj\Debug\Stack2.pdb

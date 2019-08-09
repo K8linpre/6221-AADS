@@ -1,0 +1,6 @@
+C:\Users\30002731\source\repos\Stacks\Stack3\bin\Debug\Stack3.exe.config
+C:\Users\30002731\source\repos\Stacks\Stack3\bin\Debug\Stack3.exe
+C:\Users\30002731\source\repos\Stacks\Stack3\bin\Debug\Stack3.pdb
+C:\Users\30002731\source\repos\Stacks\Stack3\obj\Debug\Stack3.csproj.CoreCompileInputs.cache
+C:\Users\30002731\source\repos\Stacks\Stack3\obj\Debug\Stack3.exe
+C:\Users\30002731\source\repos\Stacks\Stack3\obj\Debug\Stack3.pdb

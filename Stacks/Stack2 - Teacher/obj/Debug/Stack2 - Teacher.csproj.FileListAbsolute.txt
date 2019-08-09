@@ -1,0 +1,6 @@
+C:\Users\30002731\source\repos\Stacks\Stack2 - Teacher\bin\Debug\Stack2 - Teacher.exe.config
+C:\Users\30002731\source\repos\Stacks\Stack2 - Teacher\bin\Debug\Stack2 - Teacher.exe
+C:\Users\30002731\source\repos\Stacks\Stack2 - Teacher\bin\Debug\Stack2 - Teacher.pdb
+C:\Users\30002731\source\repos\Stacks\Stack2 - Teacher\obj\Debug\Stack2 - Teacher.csproj.CoreCompileInputs.cache
+C:\Users\30002731\source\repos\Stacks\Stack2 - Teacher\obj\Debug\Stack2 - Teacher.exe
+C:\Users\30002731\source\repos\Stacks\Stack2 - Teacher\obj\Debug\Stack2 - Teacher.pdb
